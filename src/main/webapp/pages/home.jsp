@@ -4,6 +4,6 @@
     <title>Title</title>
 </head>
 <body>
-    I love Java
+    ${name} loves Java
 </body>
 </html>
